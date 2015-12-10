@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-leisurelink",
+  "version": "1.0.0",
+  "description": "LeisureLink adopted rules for formatting javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeisureLink/eslint-config-leisurelink.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "Colten Rouska",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/LeisureLink/eslint-config-leisurelink/issues"
+  },
+  "homepage": "https://github.com/LeisureLink/eslint-config-leisurelink#readme"
+}
