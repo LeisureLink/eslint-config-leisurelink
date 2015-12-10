@@ -34,7 +34,7 @@ module.exports = {
     'no-new-require': 2,
     'no-new-wrappers': 2,
     'no-proto': 2,
-    'no-redeclare': [2, {'buildinGlobals': true}],
+    'no-redeclare': [2, { builtinGlobals: true }],
     'no-self-compare': 2,
     'no-trailing-spaces': 2,
     'no-undef': 2,
