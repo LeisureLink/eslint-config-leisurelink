@@ -14,7 +14,6 @@ module.exports = {
     'indent': [2, 2],
     'linebreak-style': [2, 'unix'],
     'no-case-declarations': 2,
-    'no-coller': 2,
     'no-cond-assign': 2,
     'no-constant-condition': 2,
     'no-debugger': 2,
