@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-leisurelink",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "LeisureLink adopted rules for formatting javascript",
   "main": "index.js",
   "scripts": {
